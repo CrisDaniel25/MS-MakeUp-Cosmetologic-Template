@@ -1,0 +1,140 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #627e40;
+}
+
+a,
+p {
+  color: #bf6363;
+}
+
+body {
+  background-color: #f2f6f5;
+}
+
+main {
+  margin-bottom: 2.5rem;
+}
+
+footer {
+  background-color: #e0a9b0;
+  height: 3rem;
+}
+
+footer h6 {
+  color: #f2f6f5;
+}
+
+.marketing {
+  margin-top: 5rem;
+}
+
+.btn {
+  border: 0.1rem solid;
+  background-color: transparent;
+}
+
+.btn-primary {
+  border-color: #f2f6f5;
+  color: #f2f6f5;
+}
+
+.btn-primary:hover {
+  background-color: #f2f6f5;
+  border-color: #f2f6f5;
+  color: #e0a9b0;
+}
+
+.btn-secondary {
+  border-color: #e0a9b0;
+  color: #e0a9b0;
+}
+
+.btn-secondary:hover {
+  background-color: #e0a9b0;
+  border-color: #e0a9b0;
+  color: #f2f6f5;
+}
+
+.btn-success {
+  border-color: #627e40;
+  color: #627e40;
+}
+
+.btn-success:hover {
+  background-color: #627e40;
+  border-color: #627e40;
+  color: #f2f6f5;
+}
+
+.btn-danger {
+  border-color: #bf6363;
+  color: #bf6363;
+}
+
+.btn-danger:hover {
+  background-color: #bf6363;
+  border-color: #bf6363;
+  color: #f2f6f5;
+}
+
+.carousel-item h1 {
+  color: #f2f6f5;
+}
+
+.carousel-item p {
+  color: #eedede;
+}
+
+.featurette-tittle {
+  width: 15rem;
+}
+
+.navbar-toggler-icon {
+  color: #627e40;
+}
+
+#upper-navbar {
+  background-color: #e0a9b0;
+  height: 10%;
+}
+
+#bottom-navbar {
+  background-color: #eedede;
+  height: 2rem;
+}
+
+#myCarousel {
+  height: 50%;
+}
+
+#navbarNavigation {
+  margin-left: 55%;
+}
+
+#navbarSocialIcon {
+  margin-left: 75%;
+}
+
+#social-icon {
+  width: 50px;
+  height: 50px;
+  border: 0.5px solid;
+  border-radius: 30px;
+  background-color: transparent;
+  color: #f2f6f5;
+}
+
+#social-icon:hover {
+  background-color: #f2f6f5;
+  color: #e0a9b0;
+}
+
+#navigation {
+  font-weight: bold;
+  color: #bf6363;
+}
