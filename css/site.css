@@ -38,45 +38,45 @@ footer h6 {
   background-color: transparent;
 }
 
-.btn-primary {
+.primary {
   border-color: #f2f6f5;
   color: #f2f6f5;
 }
 
-.btn-primary:hover {
+.primary:hover {
   background-color: #f2f6f5;
   border-color: #f2f6f5;
   color: #e0a9b0;
 }
 
-.btn-secondary {
+.secondary {
   border-color: #e0a9b0;
   color: #e0a9b0;
 }
 
-.btn-secondary:hover {
+.secondary:hover {
   background-color: #e0a9b0;
   border-color: #e0a9b0;
   color: #f2f6f5;
 }
 
-.btn-success {
+.success {
   border-color: #627e40;
   color: #627e40;
 }
 
-.btn-success:hover {
+.success:hover {
   background-color: #627e40;
   border-color: #627e40;
   color: #f2f6f5;
 }
 
-.btn-danger {
+.danger {
   border-color: #bf6363;
   color: #bf6363;
 }
 
-.btn-danger:hover {
+.danger:hover {
   background-color: #bf6363;
   border-color: #bf6363;
   color: #f2f6f5;
@@ -96,6 +96,19 @@ footer h6 {
 
 .navbar-toggler-icon {
   color: #627e40;
+}
+
+.featurette-divider {
+  margin-bottom: 1.5rem;
+}
+
+.modal-header {
+  background-color: #e0a9b0;
+}
+
+.modal-body {
+  background-color: #f2f6f5;
+  color: #bf6363;
 }
 
 #upper-navbar {
@@ -137,4 +150,8 @@ footer h6 {
 #navigation {
   font-weight: bold;
   color: #bf6363;
+}
+
+#staticBackdropLabel {
+  color: #f2f6f5;
 }
