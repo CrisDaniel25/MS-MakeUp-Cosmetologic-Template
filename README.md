@@ -1,3 +1,3 @@
-# web-platform-vu9vvx
+# MS - Make Up and Comestologic
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-vu9vvx)
+Plantilla diseño mediante la siguiente paleta de colores: https://paletasdecolores.com/paleta-de-colores-%E2%84%963465/
