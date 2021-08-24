@@ -3,7 +3,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+th {
   color: #627e40;
 }
 
@@ -27,6 +28,16 @@ footer {
 
 footer h6 {
   color: #f2f6f5;
+}
+
+.card-header {
+  background-color: #e0a9b0;
+  color: #f2f6f5;
+}
+
+.card-body {
+  background-color: #eedede;
+  color: #bf6363;
 }
 
 .marketing {
@@ -153,6 +164,10 @@ footer h6 {
 }
 
 #staticBackdropLabel {
+  color: #f2f6f5;
+}
+
+#tittle-service {
   color: #f2f6f5;
 }
 
