@@ -93,6 +93,17 @@ footer h6 {
   color: #f2f6f5;
 }
 
+.fc-button-primary {
+  border-color: #bf6363;
+  color: #bf6363;
+}
+
+.fc-button-primary:hover {
+  background-color: #bf6363;
+  border-color: #bf6363;
+  color: #f2f6f5;
+}
+
 .carousel-item h1 {
   color: #f2f6f5;
 }
@@ -126,12 +137,21 @@ footer h6 {
   background-color: #bf6363;
 }
 
-.page-item {
-  background-color: transparent;
-  color: transparent;
+.page-link {
+  background-color: #f2f6f5;
+  color: #bf6363;
+  border-radius: 0.9rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.page-link:hover {
+  background-color: #bf6363;
+  color: #f2f6f5;
 }
 
 #placeholder {
+  background-color: transparent;
   color: #999;
 }
 
